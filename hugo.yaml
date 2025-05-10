@@ -1,4 +1,5 @@
-baseURL: "https://clairefiltz.github.io"
+
+baseURL: "https://clairefiltz.github.io/blog"
 languageCode: "en-us"
 title: "Claire's Blog"
 theme: "LoveIt"
