@@ -1,0 +1,57 @@
+baseURL: "https://clairefiltz.github.io"
+languageCode: "en-us"
+title: "Claire's Blog"
+theme: "LoveIt"
+
+# LoveIt theme parameters
+params:
+  # site information
+  defaultTheme: "auto"
+  description: "My personal blog"
+  keywords: ["Blog", "Portfolio"]
+  
+  # Home page config
+  home:
+    profile:
+      enable: true
+      title: "Claire's Blog"
+      subtitle: "Welcome to my blog"
+      avatarURL: "/images/avatar.jpg"
+      social:
+        GitHub:
+          weight: 1
+          title: "GitHub"
+          icon: "fab fa-github"
+          url: "https://github.com/clairefiltz"
+  
+  # Menu config
+  menu:
+    main:
+      - identifier: "posts"
+        pre: ""
+        post: ""
+        name: "Posts"
+        url: "/posts/"
+        title: ""
+        weight: 1
+      - identifier: "tags"
+        pre: ""
+        post: ""
+        name: "Tags"
+        url: "/tags/"
+        title: ""
+        weight: 2
+      - identifier: "categories"
+        pre: ""
+        post: ""
+        name: "Categories"
+        url: "/categories/"
+        title: ""
+        weight: 3
+      - identifier: "about"
+        pre: ""
+        post: ""
+        name: "About"
+        url: "/about/"
+        title: ""
+        weight: 4
