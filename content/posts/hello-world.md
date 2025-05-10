@@ -38,4 +38,4 @@ if __name__ == "__main__":
 
 ## Stay in Touch
 
-I hope you'll find something interesting here. Feel free to follow me on GitHub or subscribe to the RSS feed. 
+I hope you'll find something interesting here. Feel free to follow me on GitHub or subscribe to the RSS feed.
